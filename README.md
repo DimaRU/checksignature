@@ -30,6 +30,8 @@ node index.js "message"
 
 * [secp256k1 V4.x module](https://github.com/cryptocoinjs/secp256k1-node/blob/HEAD/API.md)
 * [Crypto module](https://nodejs.org/api/crypto.html#cryptocreatehashalgorithm-options)
+* [How to create a SHA-256 hash in Node.js](https://melvingeorge.me/blog/create-sha256-hash-nodejs)
+* [Example source](https://gist.github.com/akirattii/1ccb30c3aa67876c232adfe9540c6ed6)
 
 ## License
 [MIT](LICENSE)
